@@ -1,0 +1,15 @@
+[
+  {
+    "id": "on-g1-demo-1",
+    "section": "rules",
+    "category": "Right-of-way",
+    "prompt": "At a four-way stop, who goes first if two vehicles arrive at the same time?",
+    "choices": ["The larger vehicle","The vehicle on the left","The vehicle on the right","Whoever signals first"],
+    "answer_index": 2,
+    "explanation": "If arrival is simultaneous, yield to the vehicle on your right.",
+    "reference": {
+      "title": "MTO Handbook – Intersections",
+      "url": "https://www.ontario.ca/document/official-mto-drivers-handbook"
+    }
+  }
+]
